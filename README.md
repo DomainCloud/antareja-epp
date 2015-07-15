@@ -14,7 +14,7 @@ This is an opensource .ID EPP registrar module for WHMCS. Forked from [WHMCS-Coz
 
 ### Installation
 
-If you have any troubles during installation please contact us at registrar<at>isi.co.id.
+If you have any troubles during installation please contact us at registrar[at]isi.co.id.
 
 #### Setting up the registrar module
 
