@@ -18,8 +18,8 @@ If you have any troubles during installation please contact us at registrar[at]i
 
 #### Setting up the registrar module
 
-1. Put `antareja` folder to /modules/registrars/.
-2. Configure server address and default nameserver in antarejaconfig.php.
+1. Put `antareja` folder to `/modules/registrars/`.
+2. Configure server address and default nameserver in `antarejaconfig.php`.
 3. Enter your registrar login details and certificate path (this is the full server-side filesystem path to your .pem file).
 4. Save settings.
 
